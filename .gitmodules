@@ -1,0 +1,6 @@
+[submodule "deps/Adafruit_seesawPeripheral"]
+	path = deps/Adafruit_seesawPeripheral
+	url = https://github.com/pauldotknopf/Adafruit_seesawPeripheral.git
+[submodule "deps/Adadruit_Seesaw"]
+	path = deps/Adadruit_Seesaw
+	url = https://github.com/adafruit/Adafruit_Seesaw.git
